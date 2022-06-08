@@ -25,8 +25,8 @@ exec('git config --get user.name && git config --get user.email', (error, stdout
 })
 // git author 信息
 const authors = [{
-    name: 'Rabbitzzc',
-    email: 'zzclovelcs@gmail.com'
+    name: 'OBKoro1',
+    email: 'obkoro1@foxmail.com'
 }]
 
 
